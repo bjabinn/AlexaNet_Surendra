@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexaAzureTest0_0_1", "AlexaAzureTest0_0_1.csproj", "{9FBC96E5-FD4B-4B20-B51B-89067DD81004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FBC96E5-FD4B-4B20-B51B-89067DD81004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBC96E5-FD4B-4B20-B51B-89067DD81004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBC96E5-FD4B-4B20-B51B-89067DD81004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBC96E5-FD4B-4B20-B51B-89067DD81004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
